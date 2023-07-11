@@ -24,5 +24,3 @@ I welcome contributions to this repository. If you have a SQL or Python project 
 
 Contact
 If you have any questions about this repository, please feel free to contact me at nguilo93@gmail.com
-
-This is just a sample, so you can feel free to customize it to fit your specific needs. For example, you can add more information about the projects in your repository, or you can add a section about how to contribute to the repository.
