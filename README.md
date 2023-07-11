@@ -23,4 +23,4 @@ Contributing
 I welcome contributions to this repository. If you have a SQL or Python project that you would like to share, please feel free to submit a pull request.
 
 Contact
-If you have any questions about this repository, please feel free to contact me at nguilo93@gmail.com
+If you have any questions about this repository, please feel free to contact me at nguilo93@gmail.com 
