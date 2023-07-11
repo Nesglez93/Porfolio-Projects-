@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="C:/Users/nguil/OneDrive/Documentos/DB Browser for SQLite/Porfolio_covid.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="125"/><column_width id="3" width="8887"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><current_table name="4,30:mainPercentagePopulationVaccinated"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="CovidDeath" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="7" mode="1"/></sort><column_widths><column index="1" value="67"/><column index="2" value="72"/><column index="3" value="74"/><column index="4" value="73"/><column index="5" value="78"/><column index="6" value="86"/><column index="7" value="82"/><column index="8" value="154"/><column index="9" value="94"/><column index="10" value="90"/><column index="11" value="162"/><column index="12" value="163"/><column index="13" value="159"/><column index="14" value="231"/><column index="15" value="171"/><column index="16" value="167"/><column index="17" value="239"/><column index="18" value="130"/><column index="19" value="90"/><column index="20" value="167"/><column index="21" value="103"/><column index="22" value="180"/><column index="23" value="159"/><column index="24" value="236"/><column index="25" value="172"/><column index="26" value="249"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="CovidVac" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="1" mode="0"/></sort><column_widths><column index="1" value="57"/><column index="2" value="59"/><column index="3" value="74"/><column index="4" value="73"/><column index="5" value="66"/><column index="6" value="65"/><column index="7" value="151"/><column index="8" value="150"/><column index="9" value="128"/><column index="10" value="213"/><column index="11" value="80"/><column index="12" value="93"/><column index="13" value="98"/><column index="14" value="108"/><column index="15" value="112"/><column index="16" value="142"/><column index="17" value="88"/><column index="18" value="107"/><column index="19" value="170"/><column index="20" value="188"/><column index="21" value="192"/><column index="22" value="222"/><column index="23" value="168"/><column index="24" value="240"/><column index="25" value="206"/><column index="26" value="286"/><column index="27" value="102"/><column index="28" value="113"/><column index="29" value="77"/><column index="30" value="92"/><column index="31" value="92"/><column index="32" value="95"/><column index="33" value="103"/><column index="34" value="136"/><column index="35" value="124"/><column index="36" value="101"/><column index="37" value="90"/><column index="38" value="135"/><column index="39" value="170"/><column index="40" value="94"/><column index="41" value="163"/><column index="42" value="225"/><column index="43" value="170"/><column index="44" value="102"/><column index="45" value="240"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="PercentagePopulationVaccinated" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="160"/><column index="2" value="139"/><column index="3" value="78"/><column index="4" value="155"/><column index="5" value="208"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="owid-covid-data (1)" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort/><column_widths><column index="1" value="57"/><column index="2" value="59"/><column index="3" value="74"/><column index="4" value="73"/><column index="5" value="71"/><column index="6" value="70"/><column index="7" value="133"/><column index="8" value="77"/><column index="9" value="76"/><column index="10" value="139"/><column index="11" value="141"/><column index="12" value="140"/><column index="13" value="203"/><column index="14" value="147"/><column index="15" value="146"/><column index="16" value="209"/><column index="17" value="109"/><column index="18" value="75"/><column index="19" value="145"/><column index="20" value="86"/><column index="21" value="156"/><column index="22" value="139"/><column index="23" value="209"/><column index="24" value="150"/><column index="25" value="220"/><column index="26" value="66"/><column index="27" value="65"/><column index="28" value="151"/><column index="29" value="150"/><column index="30" value="128"/><column index="31" value="213"/><column index="32" value="80"/><column index="33" value="93"/><column index="34" value="98"/><column index="35" value="108"/><column index="36" value="112"/><column index="37" value="142"/><column index="38" value="88"/><column index="39" value="107"/><column index="40" value="170"/><column index="41" value="188"/><column index="42" value="192"/><column index="43" value="222"/><column index="44" value="168"/><column index="45" value="240"/><column index="46" value="206"/><column index="47" value="286"/><column index="48" value="102"/><column index="49" value="113"/><column index="50" value="77"/><column index="51" value="92"/><column index="52" value="92"/><column index="53" value="95"/><column index="54" value="103"/><column index="55" value="136"/><column index="56" value="124"/><column index="57" value="101"/><column index="58" value="90"/><column index="59" value="135"/><column index="60" value="170"/><column index="61" value="94"/><column index="62" value="163"/><column index="63" value="74"/><column index="64" value="225"/><column index="65" value="170"/><column index="66" value="102"/><column index="67" value="240"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="owid-covid-data_death" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_"><sort><column index="6" mode="0"/></sort><column_widths><column index="1" value="57"/><column index="2" value="59"/><column index="3" value="74"/><column index="4" value="73"/><column index="5" value="66"/><column index="6" value="86"/><column index="7" value="70"/><column index="8" value="133"/><column index="9" value="77"/><column index="10" value="76"/><column index="11" value="139"/><column index="12" value="141"/><column index="13" value="140"/><column index="14" value="203"/><column index="15" value="147"/><column index="16" value="146"/><column index="17" value="209"/><column index="18" value="109"/><column index="19" value="75"/><column index="20" value="145"/><column index="21" value="86"/><column index="22" value="156"/><column index="23" value="139"/><column index="24" value="209"/><column index="25" value="150"/><column index="26" value="220"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1">-- Looking at Total Cases Vs Total Deaths  In Mexico 
+-- Shows percentage of Deaths  in the Country 
+
+SELECT
+	location,
+	date,
+	population,
+	total_cases,
+	total_deaths,
+	(CAST(total_deaths AS REAL)/total_cases)*100 as DeathPercentage	
+FROM
+	CovidDeath
+WHERE 
+location like'%mexico%' 
+
+
+------ Looking at the countries with highest Infection rate compared to the Population
+
+SELECT
+	location, 
+	date,
+	population,
+	MAX(total_cases) as HighestInfectionCount, 
+	(MAX(total_cases *1.0)/population)*100 as InfectedPopulationPercentage	
+FROM
+	CovidDeath
+GROUP BY 
+	location,
+	population
+	
+ORDER BY 
+	InfectedPopulationPercentage DESC
+	
+--- Looking at countries with the highest Death counts  
+
+SELECT
+	location, 
+	population,
+	MAX(total_deaths) as HighestDeathCount, 
+	(MAX(total_deaths *1.0)/population)*100 as DeathPopulationPercentage	
+FROM
+	CovidDeath
+WHERE
+	continent IS NOT NULL
+GROUP BY 
+	location,
+	population
+	
+ORDER BY 
+	HighestDeathCount DESC
+	
+-- Breaking the Data down by continent 
+
+SELECT
+	continent,
+	MAX(total_deaths) as HighestDeathCount 
+FROM
+	CovidDeath
+WHERE
+	continent IS NOT NULL 
+GROUP BY 
+	continent	
+ORDER BY 
+	HighestDeathCount DESC
+
+--  GLOBAL NUMBERS 
+SELECT
+	SUM(new_cases) as total_casesw, 
+	SUM(new_deaths) as total_deathsw,  
+	SUM(new_deaths *1.0)/SUM(new_cases)*100 as DeathPercentage	
+FROM
+	CovidDeath
+WHERE
+	continent IS NOT NULL
+ORDER BY 
+1,2
+
+
+----- Joining Tables 
+
+SELECT * 
+FROM 
+	CovidDeath dea 
+JOIN
+	CovidVac vac 
+ON dea.location = vac.location
+and dea.date = vac.date 
+	
+	
+
+--- Looking at Total Populatio VS Vaccinations 
+
+	
+SELECT 
+	dea.continent, 
+	dea.location, 
+	dea.date,
+	dea.population, 
+	vac.new_vaccinations,
+	SUM(vac.new_vaccinations) OVER (PARTITION BY dea.location ORDER BY dea.location, dea.date) AS PeopleVac
+FROM 
+	CovidDeath dea 
+JOIN
+	CovidVac vac 
+ON dea.location = vac.location
+and dea.date = vac.date 
+WHERE
+	dea.continent IS NOT NULL 
+	
+ORDER BY 
+		1,2,3
+		
+---- Creating a CTE 
+WITH PopvsVac (continent, location, date, population,new_vaccinations, PeopleVac)
+as 
+(
+SELECT 
+	dea.continent, 
+	dea.location, 
+	dea.date,
+	dea.population, 
+	vac.new_vaccinations,
+	SUM(vac.new_vaccinations) OVER (PARTITION BY dea.location ORDER BY dea.location, dea.date) AS PeopleVac
+FROM 
+	CovidDeath dea 
+JOIN
+	CovidVac vac 
+ON dea.location = vac.location
+and dea.date = vac.date 
+WHERE
+	dea.continent IS NOT NULL 
+	
+--ORDER BY 
+		--1,2,3
+)
+SELECT * ,(PeopleVac * 1.0 / population)*100 as vacper
+FROM 
+	PopvsVac
+	
+--- Creating Views  to store Data for later Visualizations  
+
+CREATE VIEW PercentagePopulationVaccinated as
+
+SELECT
+	location, 
+	date,
+	population,
+	MAX(total_cases) as HighestInfectionCount, 
+	(MAX(total_cases *1.0)/population)*100 as InfectedPopulationPercentage	
+FROM
+	CovidDeath
+GROUP BY 
+	location,
+	population
+	
+ORDER BY 
+	InfectedPopulationPercentage DESC
+</sql><current_tab id="0"/></tab_sql></sqlb_project>
